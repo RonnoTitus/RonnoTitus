@@ -4,17 +4,16 @@ Full-Stack Software Developer
 I build practical, database-driven web applications with a focus on clean interfaces, reliable functionality, and maintainable code.
 
 My current development focus is PHP, Python/Django, JavaScript, React, and MySQL, with experience using Git and GitHub for version control and collaborative development.
-👨‍💻 About Me
 
-    💻 Full-Stack Software Developer
+ About Me
 
-    🛠️ Building web applications with PHP, Python, Django, JavaScript, React, and MySQL
+Building web applications with PHP, Python, Django, JavaScript, React, and MySQL
 
-    🗄️ Interested in database-driven systems and backend development
+Interested in database-driven systems and backend development
 
-    🌱 Continuously improving my software engineering skills
+Continuously improving my software engineering skills
 
-    🚀 Currently building and refining real-world software projects
+Currently building and refining real-world software projects
 
 ---
 
