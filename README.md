@@ -7,8 +7,7 @@ I build practical, database-driven web applications and reliable backend systems
 
 ### 🛠️ Tech Stack & Skills
 
-- **Backend:** PHP, Python, Django, MySQL, RESTful APIs, Authentication systems
-- **Frontend:** JavaScript, React, HTML5, CSS3, Bootstrap, Responsive Web Design
-- **Tools & Practices:** Git, GitHub, VS Code, CI/CD, CRUD Applications
+[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+
 
 
