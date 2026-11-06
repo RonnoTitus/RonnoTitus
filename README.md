@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello, I'm Titus Ronno 
+**Full-Stack Software Developer** 
 
-<!--
-**RonnoTitus/RonnoTitus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical, database-driven web applications and reliable backend systems. I focus on writing clean, maintainable code to turn real-world requirements into user-focused solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+
+- **Backend:** PHP, Python, Django, MySQL, RESTful APIs, Authentication systems
+- **Frontend:** JavaScript, React, HTML5, CSS3, Bootstrap, Responsive Web Design
+- **Tools & Practices:** Git, GitHub, VS Code, CI/CD, CRUD Applications
+
+
