@@ -7,7 +7,23 @@ I build practical, database-driven web applications and reliable backend systems
 
 ### 🛠️ Tech Stack & Skills
 
-[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+#### Backend
+![PHP](https://shields.io)
+![Python](https://shields.io)
+![Django](https://shields.io)
+![MySQL](https://shields.io)
+
+#### Frontend
+![JavaScript](https://shields.io)
+![React](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![Bootstrap](https://shields.io)
+
+#### Tools & Practices
+![Git](https://shields.io)
+![GitHub](https://shields.io)
+![VS Code](https://shields.io)
 
 
 
