@@ -1,19 +1,15 @@
-**Hi, I'm Titus Ronno**
-Full-Stack Software Developer
+# Hello, I'm Titus Ronno 
+**Full-Stack Software Developer** 
 
-I build practical, database-driven web applications with a focus on clean interfaces, reliable functionality, and maintainable code.
+I build practical, database-driven web applications and reliable backend systems. I focus on writing clean, maintainable code to turn real-world requirements into user-focused solutions.
 
-My current development focus is PHP, Python/Django, JavaScript, React, and MySQL, with experience using Git and GitHub for version control and collaborative development.
+---
 
- **About Me**
+### 🛠️ Tech Stack & Skills
 
-Building web applications with PHP, Python, Django, JavaScript, React, and MySQL
-
-Interested in database-driven systems and backend development
-
-Continuously improving my software engineering skills
-
-Currently building and refining real-world software projects
+- **Backend:** PHP, Python, Django, MySQL, RESTful APIs, Authentication systems
+- **Frontend:** JavaScript, React, HTML5, CSS3, Bootstrap, Responsive Web Design
+- **Tools & Practices:** Git, GitHub, VS Code, CI/CD, CRUD Applications
 
 ---
 
