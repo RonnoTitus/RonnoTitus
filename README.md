@@ -25,7 +25,7 @@ I build practical, database-driven web applications and reliable backend systems
 ![Git](https://shields.io)
 ![GitHub](https://shields.io)
 ![VS Code](https://shields.io)
-
+?v=1
 
 
 
